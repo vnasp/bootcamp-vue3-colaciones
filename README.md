@@ -6,7 +6,7 @@ Proyecto desarrollado como desafío del Bootcamp Frontend Developer de Talento D
 
 ## Vista previa
 
-[Ver en GitHub Pages](https://vnasp.github.io/colaciones-vue2-frontend-user/)
+[Ver en GitHub Pages](https://vnasp.github.io/bootcamp-vue3-colaciones/)
 
 ## Funcionalidades
 
